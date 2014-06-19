@@ -1,0 +1,5 @@
+[
+    { "caption": "Preview Graphviz Snippet using X11", "command": "graphviz_preview_x11" },
+    { "caption": "Preview Graphviz Snippet using xdot", "command": "graphviz_preview_xdot" },
+    { "caption": "Preview Graphviz Snippet using file", "command": "graphviz_preview_file" }
+]

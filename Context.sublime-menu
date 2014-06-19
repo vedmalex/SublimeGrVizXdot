@@ -1,0 +1,85 @@
+[{
+	"caption": "GrViz File",
+	"id": "gvp",
+	"children": [{
+		"command": "graphviz_preview_file_gv_dot",
+		"id": "graphviz_preview_file_gv_dot",
+		"caption": "dot"
+	}, {
+		"command": "graphviz_preview_file_gv_neato",
+		"id": "graphviz_preview_file_gv_deato",
+		"caption": "neato"
+	}, {
+		"command": "graphviz_preview_file_gv_fdp",
+		"id": "graphviz_preview_file_gv_fdp",
+		"caption": "fdp"
+	}, {
+		"command": "graphviz_preview_file_gv_circo",
+		"id": "graphviz_preview_file_gv_circo",
+		"caption": "circo"
+	}, {
+		"command": "graphviz_preview_file_gv_twopi",
+		"id": "graphviz_preview_file_gv_twopi",
+		"caption": "twopi"
+	}, {
+		"command": "graphviz_preview_file_gv_sfdp",
+		"id": "graphviz_preview_file_gv_sfdp",
+		"caption": "sfdp"
+	}]
+},{
+	"caption": "xdot.py File",
+	"id": "dotf",
+	"children": [{
+		"command": "graphviz_preview_file_xdot_dot",
+		"id": "graphviz_preview_file_xdot_dot",
+		"caption": "dot"
+	}, {
+		"command": "graphviz_preview_file_xdot_neato",
+		"id": "graphviz_preview_file_xdot_deato",
+		"caption": "neato"
+	}, {
+		"command": "graphviz_preview_file_xdot_fdp",
+		"id": "graphviz_preview_file_xdot_fdp",
+		"caption": "fdp"
+	}, {
+		"command": "graphviz_preview_file_xdot_circo",
+		"id": "graphviz_preview_file_xdot_circo",
+		"caption": "circo"
+	}, {
+		"command": "graphviz_preview_file_xdot_twopi",
+		"id": "graphviz_preview_file_xdot_twopi",
+		"caption": "twopi"
+	}, {
+		"command": "graphviz_preview_file_xdot_sfdp",
+		"id": "graphviz_preview_file_xdot_sfdp",
+		"caption": "sfdp"
+	}]
+}, {
+	"caption": "GrViz under cursor",
+	"id": "gvp",
+	"children": [{
+		"command": "graphviz_preview_dot",
+		"id": "graphviz_preview_dot",
+		"caption": "dot"
+	}, {
+		"command": "graphviz_preview_neato",
+		"id": "graphviz_preview_deato",
+		"caption": "neato"
+	}, {
+		"command": "graphviz_preview_fdp",
+		"id": "graphviz_preview_fdp",
+		"caption": "fdp"
+	}, {
+		"command": "graphviz_preview_circo",
+		"id": "graphviz_preview_circo",
+		"caption": "circo"
+	}, {
+		"command": "graphviz_preview_twopi",
+		"id": "graphviz_preview_twopi",
+		"caption": "twopi"
+	}, {
+		"command": "graphviz_preview_sfdp",
+		"id": "graphviz_preview_sfdp",
+		"caption": "sfdp"
+	}]
+}]

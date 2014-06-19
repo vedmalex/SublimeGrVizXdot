@@ -1,0 +1,28 @@
+[
+	{
+		"id": "edit",
+		"children": [
+			{
+				"caption": "GV",
+				"id": "gvp",
+				"children": [
+					{
+						"command": "graphviz_preview_file",
+						"id":"graphviz_preview_file",
+						"caption":"Preview Graphviz File"
+					},
+					{
+						"command": "graphviz_preview_x11",
+						"id":"graphviz_preview_x11",
+						"caption":"Preview Graphviz x11"
+					},
+					{
+						"command": "graphviz_preview_xdot",
+						"id":"graphviz_preview_xdot",
+						"caption":"Preview Graphviz File"
+					}
+				]
+			}
+		]
+	}
+]
