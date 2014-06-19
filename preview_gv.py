@@ -122,11 +122,6 @@ class GraphvizPreviewFileXdotFdpCommand(sublime_plugin.TextCommand):
         fn = self.view.file_name()
         xdot("fdp",fn)
 
-class GraphvizPreviewFileXdotSfdpCommand(sublime_plugin.TextCommand):
-    def run(self, edit):
-        fn = self.view.file_name()
-        dot('sfdp',fn)
-
 class GraphvizPreviewFileXdotCircoCommand(sublime_plugin.TextCommand):
     def run(self, edit):
         fn = self.view.file_name()

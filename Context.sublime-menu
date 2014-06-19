@@ -49,10 +49,6 @@
 		"command": "graphviz_preview_file_xdot_twopi",
 		"id": "graphviz_preview_file_xdot_twopi",
 		"caption": "twopi"
-	}, {
-		"command": "graphviz_preview_file_xdot_sfdp",
-		"id": "graphviz_preview_file_xdot_sfdp",
-		"caption": "sfdp"
 	}]
 }, {
 	"caption": "GrViz under cursor",
